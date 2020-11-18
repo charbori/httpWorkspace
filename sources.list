@@ -1,0 +1,6 @@
+http://mirror.kakao.com/ubuntu
+http://mirror.kakao.com/ubuntu
+http://mirror.kakao.com/ubuntu
+http://mirror.kakao.com/ubuntu 
+
+#:%s/kr.archive.ubuntu.com/ftp.daum.net/g
