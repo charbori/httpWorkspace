@@ -7,7 +7,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 ENV LC_ALL=C.UTF-8
 ENV LANGUAGE=ko
-MAINTAINER jaehyeok <charbori@github.com>
+#MAINTAINER jaehyeok <charbori@github.com>
 
 #user를 생성하고
 #sudo 권한 주기
